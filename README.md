@@ -1,7 +1,5 @@
 # Tools
 
-A growing list of tools you could benefit from
-
 Name | Purpose | Platforms | Info date
 | --- | --- | --- | --- |
 [Ninite](https://ninite.com/) | Install chosen software all at once after a fresh OS install | Windows 10, 8.x, 7</br>Equivalent Server versions | 16 June, 21
