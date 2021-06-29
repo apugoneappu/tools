@@ -8,4 +8,5 @@ Name | Purpose | Platforms | Info date
 [Texts](http://texts.com/) | All your messages in one inbox | macOS, Windows and Linux.</br>Alpha testing on iOS | 16 June, 21
 [Super](https://super.so/) | Build Websites using Notion | Notion | 18 June, 21
 [Readme](https://readme.so/) | Beautiful Readme using bunch of templates | Web | 19 June, 21
+[RASA](https://rasa.com/) | A platform to build conversational AI chatbot | Python | 29 June, 21
 [Supertokens](https://supertokens.io/) | User authorization, login and session management | Node.js | 29 June, 21
