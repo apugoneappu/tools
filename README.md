@@ -12,3 +12,4 @@ Name | Purpose | Platforms | Info date
 [Supertokens](https://supertokens.io/) | User authorization, login and session management | Node.js | 29 June, 21
 [Neverinstall](https://neverinstall.com/) | Use all the apps on browers including VSCode, Brave etc | Web | 25 July, 21
 [Previewed](https://previewed.app/) | App Mockup Templates | Anywhere | 28 September, 21
+[Detail](https://detail.co/) | Detail turns your iPhone or iPad into an interactive, premium camera for your Mac. | iOS, macOS | 1 October, 21
