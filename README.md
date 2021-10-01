@@ -13,3 +13,4 @@ Name | Purpose | Platforms | Info date
 [Neverinstall](https://neverinstall.com/) | Use all the apps on browers including VSCode, Brave etc | Web | 25 July, 21
 [Previewed](https://previewed.app/) | App Mockup Templates | Anywhere | 28 September, 21
 [Detail](https://detail.co/) | Detail turns your iPhone or iPad into an interactive, premium camera for your Mac. | iOS, macOS | 1 October, 21
+[TypeDream](https://typedream.site/) | Typedream helps you build websites with a simple note-taking interface. | Web | 1 October, 21
